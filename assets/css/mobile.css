@@ -1,0 +1,15 @@
+/* Mudanças no código quando chegar em 1000px (tablet e celular) */
+@media  (min-width: 320px) and (max-width: 420px){
+    .bio a {
+      width: 300px;
+      
+
+    }
+
+    body {
+      background-image: url('../imagens/1.svg');
+      height: 100vh;
+    }
+
+  }
+  
